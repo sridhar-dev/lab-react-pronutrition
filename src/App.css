@@ -1,0 +1,98 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+
+
+.header{
+  background-color: #5a21ce;
+  color: white;
+  margin-bottom: 10px;
+  margin-top: -5px;
+  padding: 15px;
+  width: 100%;
+  font-size: 12px;
+}
+
+.media-left{
+  margin: 1px 0 0 0;
+  padding-left: 50px;
+}
+
+.media-left > input{
+  border-color: #9a79dd ;
+  border-radius: 4px;
+  width:10.4%;
+  padding: 3px;
+  font-size: 12px;
+  margin-top: 17px;
+  margin-bottom: 25px;
+}
+
+.box > .content{
+    background-color: rgb(217, 223, 215);
+    width: 490px;
+    height: 90px;
+    margin-bottom: 24px;
+    border: 2px solid #9a79dd
+    
+    
+}
+
+.content > img{
+    width:80px;
+    height:75px;
+    margin: 8px 40px;
+}
+
+.content > .detail{
+  margin: -75px 160px;
+}
+
+.detail{
+  font-size: 15px;
+}
+
+.content > .count{
+  margin: 42px 270px;
+  position: absolute;
+}
+
+.count > input{
+  padding: 1px;
+  width: 70%;
+  border: 2px solid #9a79dd;
+  border-radius: 4px;
+  font-size: 13.5px;
+}
+
+.count > button{
+  color: white;
+  background-color: #5a21ce;
+  width: 20px;
+}
+
+
+.media-right{
+  margin: -1190px 620px;
+  width: 400px;
+}
+
+.foodDisplay{
+  margin: 30px 90px;
+}
+
+.item{
+  margin-bottom: 20px;
+}
+
+.item > button{
+  text-align: right;
+  width: 15px;
+  color: white;
+  background-color: #5a21ce;
+  font-size: 8px;
+  padding: 3px;
+  float:right;
+}
